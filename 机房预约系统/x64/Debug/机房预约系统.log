@@ -1,0 +1,13 @@
+﻿  manager.cpp
+  orderFile.cpp
+C:\Users\MLTZ\Desktop\机房预约系统\orderFile.cpp(35,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\MLTZ\Desktop\机房预约系统\orderFile.cpp(47,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\MLTZ\Desktop\机房预约系统\orderFile.cpp(56,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\MLTZ\Desktop\机房预约系统\orderFile.cpp(64,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\MLTZ\Desktop\机房预约系统\orderFile.cpp(72,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\MLTZ\Desktop\机房预约系统\orderFile.cpp(80,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  student.cpp
+  teacher.cpp
+  机房预约系统.cpp
+  正在生成代码...
+  机房预约系统.vcxproj -> C:\Users\MLTZ\Desktop\机房预约系统\x64\Debug\机房预约系统.exe
